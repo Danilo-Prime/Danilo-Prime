@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danilo-Prime (real name: Danilo de Oliveira Leal)
-- 👀 I’m interested in programming in Python, Javascript, C/C++, Assembly, Kotlin, Rust.
-- 🛠  Areas of interest: web applications, mobile applications, 2d & 3d development, games development, IA, Operational Systems, Hacking & Capture The Flag.
+- 👀 I’m interested in programming in Python, Javascript, C/C++, Assembly, Java, Kotlin, Rust.
+- 🛠  Areas of interest: web applications, mobile applications, 2d & 3d development, games development, IA, Operational Systems, Hacking, Capture The Flag, Reverse Engineering, Software Engineering, Computer Engineering, Machine Learning.
 - 🌱 I’m currently learning Python & Javascript
 - 💞️ I’m looking to learn more & fast.
 - 📫 How to reach me:
