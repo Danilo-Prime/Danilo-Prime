@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 # Lista de repositórios:
 
+## PYTHON MATH:
+  - https://github.com/Danilo-Prime/Python-SimpleMathGame/blob/main/MathProgram.py
+ Se deseja basta tirá as variáveis extras na soma e terá uma tabuada básica. Eu só queria explora soma junto com multiplicação.
+
 ## HTML-CSS_01
   - Source: https://github.com/Danilo-Prime/HTML-CSS_01
   - Site: https://danilo-prime.github.io/HTML-CSS_01/#
