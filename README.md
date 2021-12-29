@@ -5,7 +5,7 @@ Danilo-Prime/Danilo-Prime is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Danilo de Oliveira Leal
-"Olá."
+"Olá. Eu sou um programador iniciante."
 
 # Lista de repositórios:
 
