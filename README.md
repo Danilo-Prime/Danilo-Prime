@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## PYTHON MATH:
   - ['MathPython'](https://github.com/Danilo-Prime/Python-SimpleMathGame/blob/main/MathProgram.py)
- Se deseja basta tirá as variáveis extras na soma e terá uma tabuada básica. Eu só queria explora soma junto com multiplicação.
+ Se deseja basta tirá as variáveis extras na soma e terá uma tabuada básica. Eu o contrário, dá para expandir esse programa. Minha visão e objetivo era manter simples. É só um programa de 1 hora.
 
 ## HTML-CSS_01
   - Source: [HTML-CSS_01 source](https://github.com/Danilo-Prime/HTML-CSS_01)
