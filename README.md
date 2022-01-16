@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## PYTHON MATH:
   - ['MathPython'](https://github.com/Danilo-Prime/Python-SimpleMathGame/blob/main/MathProgram.py)
+  - ['MathematicalGeniusCreator'](https://github.com/Danilo-Prime/Python-SimpleMathGame/blob/main/MathGeniusCreatorProgram.py)
  Se deseja basta tirá as variáveis extras na soma e terá uma tabuada básica. Eu o contrário, dá para expandir esse programa. Minha visão e objetivo era manter simples. É só um programa de 1 hora.
 
 ## HTML-CSS_01
